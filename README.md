@@ -1,4 +1,4 @@
-# discord
+# discord nitro gen/check
 Put your discord token to token.txt
 
 
