@@ -57,7 +57,7 @@ def check():
             rlimit=rlimit+1
         stat()
     except:
-        print('Error/Bad Proxie')
+        print('Error/Bad Proxy')
         global errors
         errors = errors+1
         stat()
