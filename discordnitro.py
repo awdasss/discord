@@ -3,7 +3,6 @@ import string
 import requests
 from requests.exceptions import HTTPError
 import threading
-import logging
 import time
 import random_proxies
 import json
