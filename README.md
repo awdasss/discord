@@ -9,3 +9,8 @@ Reccomended HTTPS proxies
 
 Python modules:
 # pip install requests random_proxies
+
+
+
+
+Sorry for my python shitcode
